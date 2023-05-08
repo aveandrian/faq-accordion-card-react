@@ -20,4 +20,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/13519212/236793685-12571491-eac8-4264-9279-f85480469609.png)
