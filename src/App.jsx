@@ -11,7 +11,7 @@ function App() {
       <div className='accordion-item'  >
         <div className='accordion-title-container' onClick={() => toggleAnswer(faqItem.id)}>
           <div className="accordion-title" style={{fontWeight: faqItem.isOpen ? 700 : 400}}>{faqItem.question}</div>
-          <img src='../public/images/icon-arrow-down.svg' className='accordion-icon' style={{transform: faqItem.isOpen ? "rotate(180deg)" : "" }}/>
+          <img src='/images/icon-arrow-down.svg' className='accordion-icon' style={{transform: faqItem.isOpen ? "rotate(180deg)" : "" }}/>
         </div>
         <div className="panel"
           style={
@@ -40,9 +40,9 @@ function App() {
       <main>
         <div className='parcel-image-container'>
           <div className='main-image-container'>
-            <img src="../public/images/illustration-woman-online-desktop.svg" className='main-image' />
+            <img src="/images/illustration-woman-online-desktop.svg" className='main-image' />
           </div>
-          <img src="../public/images/illustration-box-desktop.svg" className='parcel-image' />
+          <img src="/images/illustration-box-desktop.svg" className='parcel-image' />
         </div>
         <div>
           <h1 className='faq-title'>FAQ</h1>
