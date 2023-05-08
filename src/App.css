@@ -20,7 +20,7 @@ main {
   width: 40.625rem;
   height: 21.875rem;
   background-color: white;
-  background-image: url('../images/bg-pattern-desktop.svg');
+  background-image: url('../public/images/bg-pattern-desktop.svg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: -28.125rem -12.5rem;
